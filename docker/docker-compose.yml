@@ -21,7 +21,7 @@ services:
         DATABASE_NAME: dareondb
         DATABASE_PORT: 3306
 
-    command: ["./wait-for-it.sh","db:3306","java","-jar","/Dareon.jar"]
+    command: ["./wait-for-it.sh","db:3306","java","-Dspring.profiles.active=production","-jar","/Dareon.jar"]
 
 
   db:
