@@ -8,9 +8,11 @@ services:
 - docker
 
 before_install:
+- cd docker
 - sudo docker-compose --version
 
 script:
+- cd ..
 - chmod +x docker-compose.yml
 - sudo docker-compose up -d --build
 - docker ps
