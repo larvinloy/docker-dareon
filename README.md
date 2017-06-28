@@ -19,9 +19,9 @@ Docker, Docker-Compose
 #### Test login data
 Userame matches the user's privileges
 (Username, Password)
-1. admin@dareon.org        admin
-2. repoowner@rmit.edu.au   repoowner
-3. dataowner@rmit.edu.au   dataowner
+1. admin@dareon.org, admin
+2. repoowner@rmit.edu.au, repoowner
+3. dataowner@rmit.edu.au, dataowner
 
 ## Built With
 
