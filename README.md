@@ -28,8 +28,6 @@ Docker, Docker-Compose
 * **Peitong Wang** - *Initial work* - [s3501054PeitongWang](https://github.com/s3501054PeitongWang)
 * **Ayush Garg** - *Initial work* - [s3555116ayushgarg](https://github.com/s3555116ayushgarg)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the BSD2 License - see the [LICENSE](https://github.com/larvinloy/docker-dareon/blob/master/License) file for details
