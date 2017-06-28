@@ -17,11 +17,11 @@ Docker, Docker-Compose
 3. docker-compose up -d --build
 
 #### Test login data
-Username                Password
------------------------------------
-admin@dareon.org        admin
-repoowner@rmit.edu.au   repoowner
-dataowner@rmit.edu.au   dataowner
+Userame matches the user's privileges
+(Username, Password)
+1. admin@dareon.org        admin
+2. repoowner@rmit.edu.au   repoowner
+3. dataowner@rmit.edu.au   dataowner
 
 ## Built With
 
