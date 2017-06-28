@@ -16,6 +16,13 @@ Docker, Docker-Compose
 2. cd docker-dareon/docker
 3. docker-compose up -d --build
 
+#### Test login data
+Username                Password
+-----------------------------------
+admin@dareon.org        admin
+repoowner@rmit.edu.au   repoowner
+dataowner@rmit.edu.au   dataowner
+
 ## Built With
 
 * Spring Boot - The web framework used
